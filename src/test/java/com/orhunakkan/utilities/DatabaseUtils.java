@@ -3,7 +3,7 @@ package com.orhunakkan.utilities;
 import java.sql.*;
 import java.util.*;
 
-public class DbUtils {
+public class DatabaseUtils {
 
     // declaring at class level so all methods can access
 
